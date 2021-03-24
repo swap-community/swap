@@ -19,15 +19,11 @@ For production, please use the _latest or tagged release_ of the _master_ branch
 - Webpage: [swap.foundation](https://swap.foundation)
 - Explorer: [explorer.swap.foundation](https://explorer.swap.foundation)
 - Pool List: [miningpoolstats.stream/swap](https://miningpoolstats.stream/swap)
-- GitHub: [github.com/swap-dev/swap](https://github.com/swap-dev/swap)
+- GitHub: [https://github.com/swap-community](https://github.com/swap-community)
 
 ## Social/Contact
 
-- Bitcointalk [bitcointalk.org/index.php?topic=5083455](https://bitcointalk.org/index.php?topic=5083455)
-- Discord: [discord.gg/SmcFCPu](https://discord.gg/SmcFCPu)
-- Reddit: [r/SwapProject/](https://www.reddit.com/r/SwapProject/)
-- Twitter: [@Swap_Community](https://twitter.com/Swap_Community)
-- Email: xwpdev@gmail.com
+- Discord: [https://discord.gg/VdbtGJNtzc](https://discord.gg/VdbtGJNtzc)
 
 ## Specifications & Emission
 
@@ -45,8 +41,6 @@ For production, please use the _latest or tagged release_ of the _master_ branch
 - Mainnet default P2P port: 19949
 - Mainnet default RPC port: 19950
 
-## Donation Address
-fh2jc6PbQYd4a5PY3ooPMZiPVniMy4MGcjSRBnoBVc1xLmdCHJ6hc98Ess2hpN2mDgPnCAXtDUUbmjWYutRvdoSr2Nps2o5wc
 
 ## Build on linux
 
